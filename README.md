@@ -4,6 +4,7 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](linkmaiki92@gmail.com)
 
 ![Obake GitHub stats](https://github-readme-stats.vercel.app/api?username=Obake00&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Obake00&layout=compact)
 
 ## Tecnologias do meu dia a dia
 
